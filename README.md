@@ -1,5 +1,3 @@
-# 0309 - Posicionamento Exercício 🚴‍♀️
-
 📋 **Sumário**
 
 * [🔍 Visão Geral](#visão-geral)
